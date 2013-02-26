@@ -33,13 +33,14 @@ Ruby:	ruby 1.9.3p327
 
 ## Testdaten
 Folgende Testdaten können verwendet werden:
-* Active Admin: "admin@payboy.com" PW: "admin123"
-* Admin: email: "lily@himym.com" 
-* Member: email: "marshall@himym.com", "barkeeper@himym.com"
-* Applicant: email: "baby@himym.com"
-* Declined: email: "barney@himym.com"
-* Registered: email: "robin@himym.com", "ted@himym.com"
-* Das Passwort lautet "hackme", falls nicht anders angegeben.
+> PlaceTobe
+> > Active Admin: "admin@payboy.com" PW: "admin123"
+> > Admin: email: "lily@himym.com" 
+> > Member: email: "marshall@himym.com", "barkeeper@himym.com"
+> > Applicant: email: "baby@himym.com"
+> > Declined: email: "barney@himym.com"
+> > Registered: email: "robin@himym.com", "ted@himym.com"
+> > Das Passwort lautet "hackme", falls nicht anders angegeben.
 
 ##Gems
 Folgende Gems wurden benutzt:
@@ -57,7 +58,6 @@ Folgende Gems wurden benutzt:
 * gem 'wicked_pdf'
 * gem 'wkhtmltopdf-binary'
 * gem 'activeadmin'
-
 * gem 'rspec-rails'
 * gem 'factory_girl_rails'
 * gem 'capybara'
@@ -65,9 +65,7 @@ Folgende Gems wurden benutzt:
 * gem 'faker'
 * gem 'sqlite3'
 * gem 'libv8'
-
 * gem 'pg'
-
 * gem 'sass-rails', '~> 3.2.3'
 * gem 'coffee-rails', '~> 3.2.1'
 * gem 'uglifier', '>= 1.0.3'
