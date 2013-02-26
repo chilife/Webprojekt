@@ -5,7 +5,7 @@ Unser Webprojekt soll dazu dienen, ein WG Abrechnungstool abzubilden, um den Fin
 Dazu lassen sich User anlegen, die dann entweder eine WG erstellen oder einer bereits vorhandenen WG beitreten können. Jeder User darf maximal eine WG haben. 
 
 * Rollen: In jeder WG gibt es einen Administrator, der Mitglieder akzeptieren oder ablehnen kann.
-	Zusätzlich kann er Einstellungen an einer WG vornehmen, Kategorien für Einkaufsquittungen anlegen.
+	Zusätzlich kann er Einstellungen an einer WG vornehmen und Kategorien für Einkaufsquittungen anlegen.
 	Die anderen WG-Mitglieder haben die Rolle "Member". Diese können, wie auch der Admin, Belege anlegen, die Ausgaben von allen Mitgliedern kommentieren und seine eigenen Belege bearbeiten oder löschen. Es lassen sich Monatsabrechnungen aufrufen sowohl texthell als auch grafisch.
 * WG löschen/User löschen/WG verlassen
 ** Admin: 
