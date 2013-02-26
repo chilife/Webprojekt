@@ -42,6 +42,24 @@ Folgende Testdaten können verwendet werden:
 * Registered: email: "robin@himym.com", "ted@himym.com"
 * Das Passwort lautet "hackme", falls nicht anders angegeben.
 
+> WG: Capitol
+* Active Admin: "admin@capitol.de" PW: "admin123"
+* Owner: email: "bernd@pay.de" 
+* Member: email: "ulf@pay.de", "ernie@pay.de"
+* Applicant: email: "tanja@pay.de", "erika@pay.de"
+* Declined: email: "lars@pay.de", "frank@pay.de"
+* Registered: email: "jennifer@pay.de", "sabbel@pay.de"
+* Das Passwort lautet "hackme", falls nicht anders angegeben.
+
+> WG: Simpsons
+* Active Admin: "admin@simpsons.de" PW: "admin123"
+* Owner: email: "homer@pay.de" 
+* Member: email: "marge@pay.de", "bart@pay.de"
+* Applicant: email: "lisa@pay.de", "maggie@pay.de"
+* Declined: email: "krusty@pay.de", "grampa@pay.de"
+* Registered: email: "ned@pay.de", "milhouse@pay.de"
+* Das Passwort lautet "hackme", falls nicht anders angegeben.
+
 ##Gems
 Folgende Gems wurden benutzt:
 * gem 'rails', '3.2.9'
