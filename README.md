@@ -33,7 +33,7 @@ Ruby:	ruby 1.9.3p327
 
 ## Testdaten
 Folgende Testdaten können verwendet werden:
-> PlaceTobe
+> WG: PlaceTobe
 * Active Admin: "admin@payboy.com" PW: "admin123"
 * Admin: email: "lily@himym.com" 
 * Member: email: "marshall@himym.com", "barkeeper@himym.com"
