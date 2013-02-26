@@ -34,13 +34,13 @@ Ruby:	ruby 1.9.3p327
 ## Testdaten
 Folgende Testdaten können verwendet werden:
 > PlaceTobe
-> > Active Admin: "admin@payboy.com" PW: "admin123"
-> > Admin: email: "lily@himym.com" 
-> > Member: email: "marshall@himym.com", "barkeeper@himym.com"
-> > Applicant: email: "baby@himym.com"
-> > Declined: email: "barney@himym.com"
-> > Registered: email: "robin@himym.com", "ted@himym.com"
-> > Das Passwort lautet "hackme", falls nicht anders angegeben.
+* Active Admin: "admin@payboy.com" PW: "admin123"
+* Admin: email: "lily@himym.com" 
+* Member: email: "marshall@himym.com", "barkeeper@himym.com"
+* Applicant: email: "baby@himym.com"
+* Declined: email: "barney@himym.com"
+* Registered: email: "robin@himym.com", "ted@himym.com"
+* Das Passwort lautet "hackme", falls nicht anders angegeben.
 
 ##Gems
 Folgende Gems wurden benutzt:
