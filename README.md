@@ -20,11 +20,11 @@ Dazu lassen sich User anlegen, die dann entweder eine WG erstellen oder einer be
 ## Installationshinweise
 Ruby:	ruby 1.9.3p327
 
-#### git clone "https://www.github.com/dep87/wg.git"
-##### Linux: 
+##### git clone "https://www.github.com/dep87/wg.git"
+###### Linux: 
 	* apt-get install wkhtmltopdf
 	* apt-get install imagemagick
-##### Mac: 
+###### Mac: 
 	* brew install wkhtmltopdf
 	* brew install imagemagick
 ##### bundle install
