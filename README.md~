@@ -33,7 +33,7 @@ Ruby:	ruby 1.9.3p327
 
 ## Testdaten
 Folgende Testdaten können verwendet werden:
-> WG: PlaceToBe
+#### WG: PlaceToBe
 * Active Admin: "admin@placetobe.de" PW: "admin123"
 * Owner: email: "lily@pay.de" 
 * Member: email: "marshall@pay.de", "barkeeper@pay.de"
@@ -41,7 +41,7 @@ Folgende Testdaten können verwendet werden:
 * Declined: email: "barney@pay.de"
 * Registered: email: "ted@pay.de", "robin@pay.de"
 * Das Passwort lautet "hackme", falls nicht anders angegeben.
-> WG: Capitol
+#### WG: Capitol
 * Active Admin: "admin@capitol.de" PW: "admin123"
 * Owner: email: "bernd@pay.de" 
 * Member: email: "ulf@pay.de", "ernie@pay.de"
@@ -49,7 +49,7 @@ Folgende Testdaten können verwendet werden:
 * Declined: email: "lars@pay.de", "frank@pay.de"
 * Registered: email: "jennifer@pay.de", "sabbel@pay.de"
 * Das Passwort lautet "hackme", falls nicht anders angegeben.
-> WG: Simpsons
+#### WG: Simpsons
 * Active Admin: "admin@simpsons.de" PW: "admin123"
 * Owner: email: "homer@pay.de" 
 * Member: email: "marge@pay.de", "bart@pay.de"

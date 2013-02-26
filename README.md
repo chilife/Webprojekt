@@ -41,6 +41,7 @@ Folgende Testdaten können verwendet werden:
 * Declined: email: "barney@pay.de"
 * Registered: email: "ted@pay.de", "robin@pay.de"
 * Das Passwort lautet "hackme", falls nicht anders angegeben.
+
 #### WG: Capitol
 * Active Admin: "admin@capitol.de" PW: "admin123"
 * Owner: email: "bernd@pay.de" 
@@ -49,6 +50,7 @@ Folgende Testdaten können verwendet werden:
 * Declined: email: "lars@pay.de", "frank@pay.de"
 * Registered: email: "jennifer@pay.de", "sabbel@pay.de"
 * Das Passwort lautet "hackme", falls nicht anders angegeben.
+
 #### WG: Simpsons
 * Active Admin: "admin@simpsons.de" PW: "admin123"
 * Owner: email: "homer@pay.de" 
