@@ -20,14 +20,16 @@ Dazu lassen sich User anlegen, die dann entweder eine WG erstellen oder einer be
 ## Installationshinweise
 Ruby:	ruby 1.9.3p327
 
-* git clone "https://www.github.com/dep87/wg.git"
-*Linux: 	* apt-get install wkhtmltopdf
-			* apt-get install imagemagick
-*Mac: 		* brew install wkhtmltopdf
-			* brew install imagemagick
-* bundle install
-* rake db:migrate
-* rake db:seed
+#### git clone "https://www.github.com/dep87/wg.git"
+##### Linux: 
+	* apt-get install wkhtmltopdf
+	* apt-get install imagemagick
+##### Mac: 
+	* brew install wkhtmltopdf
+	* brew install imagemagick
+##### bundle install
+##### rake db:migrate
+##### rake db:seed
 
 ## Testdaten
 Folgende Testdaten können verwendet werden:
