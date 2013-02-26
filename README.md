@@ -4,18 +4,18 @@
 Unser Webprojekt soll dazu dienen, ein WG Abrechnungstool abzubilden, um den Finanzhaushalt von Wohngemeinschaften zu vereinfachen.
 Dazu lassen sich User anlegen, die dann entweder eine WG erstellen oder einer bereits vorhandenen WG beitreten können. Jeder User darf maximal eine WG haben. 
 
-* Rollen: In jeder WG gibt es einen User mit der Rolle 'Owner', der Mitglieder akzeptieren oder ablehnen kann.
+#### Rollen: In jeder WG gibt es einen User mit der Rolle 'Owner', der Mitglieder akzeptieren oder ablehnen kann.
 	Zusätzlich kann er Einstellungen an einer WG vornehmen und Kategorien für Einkaufsquittungen anlegen.
 	Die anderen WG-Mitglieder haben die Rolle "Member". Diese können, wie auch der 'Owner', Belege anlegen, die Ausgaben von allen Mitgliedern kommentieren und ihre eigenen Belege bearbeiten oder löschen. Es lassen sich Monatsabrechnungen aufrufen sowohl textuell als auch grafisch.
-* WG löschen/User löschen/WG verlassen
-> Admin: 
-> > Account löschen: Löscht ein Admin seinen Account, werden alle seine Userdaten gelöscht. 		Er verlässt die WG. Dort werden alle seine Belege und deren Kommentare gelöscht. Die Admin Rechte werden an den nächsten Nutzer abgegeben(falls vorhanden), sonst wird die gesamte WG gelöscht.
-> > WG löschen: Alle WG Daten werden gelöscht. Die Rollen der User ändern sich auf die eines neu registrierten Users.
-> > Als Admin ernennen und in der WG bleiben: ein ausgewählter Nutzer wird zum Admin ernannt, der aktuelle Admin wird Member
-> > Als Admin ernenne und WG verlassen: Admin erhält Rolle Registered, die gemeinsamen WG Belege werden gelöscht, die eigenen Belege bleiben erhalten.
-> Member: 
-> > WG verlassen: Alle gemeinsamen Belege und deren Kommentare werden gelöscht. Der User erhält die Rolle registered.
-> > Account löschen: Alle Userdaten werden gelöscht. Die privaten WG Belege der restlichen WG-Mitglieder bleiben erhalten.
+#### WG löschen/User löschen/WG verlassen
+##### Admin: 
+	* Account löschen: Löscht ein Admin seinen Account, werden alle seine Userdaten gelöscht. 		Er verlässt die WG. Dort werden alle seine Belege und deren Kommentare gelöscht. Die Admin Rechte werden an den nächsten Nutzer abgegeben(falls vorhanden), sonst wird die gesamte WG gelöscht.
+	* WG löschen: Alle WG Daten werden gelöscht. Die Rollen der User ändern sich auf die eines neu registrierten Users.
+	* Als Admin ernennen und in der WG bleiben: ein ausgewählter Nutzer wird zum Admin ernannt, der aktuelle Admin wird Member
+	* Als Admin ernenne und WG verlassen: Admin erhält Rolle Registered, die gemeinsamen WG Belege werden gelöscht, die eigenen Belege bleiben erhalten.
+##### Member: 
+	* WG verlassen: Alle gemeinsamen Belege und deren Kommentare werden gelöscht. Der User erhält die Rolle registered.
+	* Account löschen: Alle Userdaten werden gelöscht. Die privaten WG Belege der restlichen WG-Mitglieder bleiben erhalten.
 
 ## Installationshinweise
 Ruby:	ruby 1.9.3p327
@@ -89,9 +89,9 @@ Folgende Gems wurden benutzt:
 * gem 'less-rails'
 
 ## Bei Fragen oder Anregungen
-#### Stephan Depenwisch
-* stephan@depenwisch.de
-#### Sven Tewes
-* sven_tewes@gmx.de
-#### Christian Schmidt
-* christian.schmidt@fh-muenster.de
+##### Stephan Depenwisch
+	* stephan@depenwisch.de
+##### Sven Tewes
+	* sven_tewes@gmx.de
+##### Christian Schmidt
+	* christian.schmidt@fh-muenster.de
